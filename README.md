@@ -3,7 +3,7 @@ This is an example implementation of [our paper](https://ieeexplore.ieee.org/doc
 
 Zheng Zhang, Wen-Jue He, Tensorized Topological Graph Learning for Generalized Incomplete Multi-view Clustering, Information Fusion, 2023.
 
-This code has been evaluated on Matlab 2015.
+This code has been evaluated on Matlab R2021a.
 
 #### Citation:
 
