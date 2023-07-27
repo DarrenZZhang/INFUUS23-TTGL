@@ -1,5 +1,5 @@
 # Tensorized Topological Graph Learning for Generalized Incomplete Multi-view Clustering (TTGL)
-This is an example implementation of [our paper](https://ieeexplore.ieee.org/document/9089264):
+This is an example implementation of [our paper](https://www.sciencedirect.com/science/article/pii/S1566253523002300):
 
 Zheng Zhang, Wen-Jue He, Tensorized Topological Graph Learning for Generalized Incomplete Multi-view Clustering, Information Fusion, 2023.
 
