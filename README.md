@@ -13,7 +13,7 @@ If you find our approach useful in your research, please consider citing:
   title={Tensorized Topological Graph Learning for Generalized Incomplete Multi-view Clustering},  
   author={Zhang, Zheng and He, Wen-Jue},  
   journal={Information Fusion},  
-  volume ={100},
+  volume ={100}, 
   pages={101914},  
   year={2023}
 }
